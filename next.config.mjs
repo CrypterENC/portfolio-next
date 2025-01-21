@@ -1,4 +1,4 @@
-cosnt nextConfig = {
+const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
